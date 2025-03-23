@@ -1,2 +1,1 @@
-# Bessemer Steel Website
-# Fuck US Steel
+# Bessemer Steel
